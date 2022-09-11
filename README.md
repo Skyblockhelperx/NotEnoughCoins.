@@ -1,4 +1,5 @@
 # NotEnoughCoins.
+NEW VERSION!!! 1.0 IS HERE
 A Skyblock Flipping Mod
 /nec - Shows the config GUI
 /nec help - Shows the help message containing all the subcommands and their usage
